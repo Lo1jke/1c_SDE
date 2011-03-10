@@ -53,3 +53,15 @@
 20110310;17:15:59;;C;Restruct;RestructStatus;3;Обработка справочника:  ТекущиеЛицензииSDE;;
 20110310;17:16:11;;C;Restruct;RestructCopy;1;;;
 20110310;17:20:24;;C;Restruct;RestructAcptEnd;1;;;
+20110310;20:46:20;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер HOMEPC(m);;
+20110310;20:46:28;;C;Sys;CloseSession;0;;;
+20110310;20:53:18;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер HOMEPC(m);;
+20110310;20:53:37;;C;Sys;CloseSession;0;;;
+20110310;20:55:26;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер HOMEPC(m);;
+20110310;20:56:34;;C;Sys;CloseSession;0;;;
+20110310;20:57:10;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер HOMEPC(m);;
+20110310;20:57:22;;C;Sys;CloseSession;0;;;
+20110310;20:57:52;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер HOMEPC(m);;
+20110310;21:03:54;;C;Sys;CloseSession;0;;;
+20110310;21:04:02;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер HOMEPC(m);;
+20110310;22:25:15;;C;Sys;CloseSession;0;;;
